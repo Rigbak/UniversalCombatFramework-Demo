@@ -58,5 +58,7 @@ The demo's locomotion includes animations and Blueprints adapted from Epic Games
 
 ## Links
 
+- [Universal Combat Framework on Fab](https://www.fab.com/listings/ecc5de6d-b0d1-49ea-8a79-17dd634de60f)
+- [Documentation](https://rigbak.com/docs/ucf)
 - [Every demo](https://rigbak.com/demos)
 - [Discord support](https://rigbak.com/discord)
